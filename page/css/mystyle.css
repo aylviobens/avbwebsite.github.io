@@ -1,13 +1,6 @@
 ::selection{
     background-color:rgb(236, 54, 30);
     color:rgb(40, 176, 99);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.textShadow::selection{
-    text-shadow:3px 3px 2px rgb(228, 248, 238);
-    background-color:rgb(236, 54, 30);
-    color:rgb(40, 176, 99);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .myL{
     padding:0px 46% 0px 48%;
